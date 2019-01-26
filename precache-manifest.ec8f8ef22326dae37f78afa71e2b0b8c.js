@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/burger-app/static/js/runtime~main.970a8769.js"
   },
   {
-    "revision": "6e95353805455b64a636",
-    "url": "/burger-app/static/js/main.6e953538.chunk.js"
+    "revision": "c5032a9c4695352fdd45",
+    "url": "/burger-app/static/js/main.c5032a9c.chunk.js"
   },
   {
     "revision": "b32c1dbbcc2c2e68e03b",
     "url": "/burger-app/static/js/1.b32c1dbb.chunk.js"
   },
   {
-    "revision": "6e95353805455b64a636",
+    "revision": "c5032a9c4695352fdd45",
     "url": "/burger-app/static/css/main.9a62e4e7.chunk.css"
   },
   {
-    "revision": "c0634d0530b1a8ff1df0bebaba1666a2",
+    "revision": "8b86e762c4b524f36059f14fd9da819d",
     "url": "/burger-app/index.html"
   }
 ];
